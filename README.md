@@ -8,7 +8,7 @@ Xari0x, Fondateur et développeur d'Hydelia.
 
 ## 🔗 Liens
 [![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xari0x)
-[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WsNzz6M9Xk)
+[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ym7CJZ7e)
 
 
 ## 🛠 Skills
