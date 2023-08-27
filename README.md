@@ -18,4 +18,4 @@ Xari0x, Fondateur et développeur d'Hydelia.
 ![CSS3](https://img.shields.io/badge/CSS3-33a9dc?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-f16529?style=for-the-badge&logo=html5&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-47848f?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![Java Spigot](https://img.shields.io/badge/Java Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)
