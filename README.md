@@ -1,6 +1,6 @@
 
 ## 🚀 A propos
-Xari0x, Fondateur et développeur d'Hydelia.
+Xari0x, Fondateur et développeur d'Hydelia et d'OfflineRP.
 
 
 # 👋
