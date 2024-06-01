@@ -8,7 +8,7 @@ Xari0x, Fondateur et développeur d'Hydelia et d'OfflineRP.
 
 ## 🔗 Liens
 [![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xari0x)
-[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ym7CJZ7e)
+[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Q2BqpKJ84V)
 
 
 ## 🛠 Skills
@@ -19,3 +19,4 @@ Xari0x, Fondateur et développeur d'Hydelia et d'OfflineRP.
 ![HTML5](https://img.shields.io/badge/HTML5-f16529?style=for-the-badge&logo=html5&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-47848f?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![FiveM Lua](https://img.shields.io/badge/FiveM%20Lua-ff7202?style=for-the-badge&logo=fivem&logoColor=white)
